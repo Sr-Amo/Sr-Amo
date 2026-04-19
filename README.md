@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hola, soy MrAmorito
 
-<!--
-**Sr-Amo/Sr-Amo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Por ahora estudio CS por mi cuenta. Y me atrae mucho la ciberseguridad.  
+Este GitHub es mi espacio, lo usaré para subir algunos proyectos de diversos temas y documentar mis avances.
 
-Here are some ideas to get you started:
+## Lo que pienso subir:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 **Writeups de Hack The Box** — análisis paso a paso de máquinas y retos
+- 🌐 **Proyectos web** — desarrollo frontend y pequeñas aplicaciones
+- 🌟 **Otros proyectos** — desarrollo de proyectos vinculados a la ciberseguridad u otros temas
+- 🎮 **Juegos simples** — experimentos con lógica y mecánicas simples
+
+## 📈 Áreas que estoy desarrollando
+
+- Linux / Bash  
+- Python
+- JavaScript
+- C
+- Nmap  
+- HTML, CSS  
+
+## Estas son mis metas a futuro
+
+- Profundizar en **OSINT** y análisis de información
+- Convertirme en **purple team** — fuerte tanto en red como en blue team
+- Aplicar la ciberseguridad para proteger a quienes más lo necesitan
+
+**Contacto:** danny.len139@gmail.com
