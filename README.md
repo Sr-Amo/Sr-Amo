@@ -10,13 +10,13 @@
 [![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
 
 Por ahora estudio **CS por mi cuenta** y me apasiona la **ciberseguridad**.  
-Este GitHub es mi espacio para subir proyectos, documentar avances y crecer como profesional.
+Este es mi espacio para subir proyectos, documentar avances y crecer en conocimiento.
 
 ---
 
 ## 📂 Lo que subiré aquí
 
-- 📝 **Writeups de Hack The Box** — análisis paso a paso de máquinas y retos
+- 📝 **Writeups de conceptos de CS** aplicados a ciberseguridad y forensia digital
 - 🌐 **Proyectos web** — desarrollo frontend y aplicaciones pequeñas
 - 🔐 **Proyectos de ciberseguridad** — scripts, herramientas y automatizaciones
 - 🎮 **Juegos simples** — experimentos con lógica y mecánicas
@@ -37,9 +37,8 @@ Este GitHub es mi espacio para subir proyectos, documentar avances y crecer como
 ## 🎯 Metas a futuro
 
 - Profundizar en **OSINT** y análisis de inteligencia de fuentes abiertas
-- Convertirme en **Purple Team** — fuerte tanto en Red Team como en Blue Team
-- Aprender forensia digital. Volver a Perú. Ayudar a que los casos de **explotación sexual infantil** no se caigan por mala evidencia digital.
-
+- Convertirme en **Purple Team**, fuerte tanto en Red Team como en Blue Team
+- Trabajar rastreando casos de **explotación sexual infantil y otras clases de crímenes**, consiguiendo **evidencia digital** y aplicando **justicia**
 ---
 
 ## 📫 Contacto
