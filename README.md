@@ -46,7 +46,3 @@ Este GitHub es mi espacio para subir proyectos, documentar avances y crecer como
 
 ✉️ **Email:** [danny.len139@gmail.com](mailto:danny.len139@gmail.com)  
 🌐 **GitHub:** [github.com/MrAmorito](https://github.com/MrAmorito)
-
----
-
-⭐ *"El conocimiento es la mejor defensa"*
