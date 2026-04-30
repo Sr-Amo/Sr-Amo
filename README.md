@@ -16,7 +16,7 @@ Este es mi espacio para subir proyectos, documentar avances y crecer en conocimi
 
 ## 📂 Lo que subiré aquí
 
-- 📝 **Writeups de conceptos de CS** aplicados a ciberseguridad y forensia digital
+- 📝 **Explicaciones de conceptos de CS** aplicados a ciberseguridad y forensia digital
 - 🌐 **Proyectos web** — desarrollo frontend y aplicaciones pequeñas
 - 🔐 **Proyectos de ciberseguridad** — scripts, herramientas y automatizaciones
 - 🎮 **Juegos simples** — experimentos con lógica y mecánicas
@@ -38,7 +38,7 @@ Este es mi espacio para subir proyectos, documentar avances y crecer en conocimi
 
 - Profundizar en **OSINT** y análisis de inteligencia de fuentes abiertas
 - Convertirme en **Purple Team**, fuerte tanto en Red Team como en Blue Team
-- Trabajar rastreando casos de **explotación sexual infantil y otras clases de crímenes**, consiguiendo **evidencia digital** y aplicando **justicia**
+- Mantenerme en lo justo
 ---
 
 ## 📫 Contacto
